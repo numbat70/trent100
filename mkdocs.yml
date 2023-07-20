@@ -1,0 +1,17 @@
+site_name: Trent100-2023
+docs_dir: docs
+theme: 
+    name: cinder
+use_directory_urls: false
+site_url: ""
+plugins:
+    - search
+    - ezlinks
+markdown_extensions:
+    - pymdownx.tilde
+    - pymdownx.tasklist
+    - pymdownx.emoji
+    - pymdownx.details
+    - pymdownx.mark
+    - admonition
+    
